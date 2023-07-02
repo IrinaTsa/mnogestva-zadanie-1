@@ -1,0 +1,5 @@
+N=int(input('Количество чисел '))
+mas=map(int,input().split())
+m=set(mas)
+print(m)
+print(len(m))
